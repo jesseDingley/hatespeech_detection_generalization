@@ -4,9 +4,9 @@ Racism and Sexism are two sub-categories of Hate Speech. Racism, Sexism, and Hat
 
 This repository is split into multiple folders containing the code used for implementation and testing. Note that we do not provide the datasets in this repository.
 
- - <b>hatespeech_detection</b>: Contains:
+ - 📁 <b>hatespeech_detection</b>: Contains:
     - `hatespeech-detection-data-bertweet.ipynb`: notebook containing the code for gathering and preprocessing hate speech data.
     - `hatespeech-detection-training.ipynb`: notebook containing the code for training the hate speech detection model.
 
- - <b>comparison</b>: Contains:
+ - 📁 <b>comparison</b>: Contains:
     - `hatespeech-detection-tests.ipynb`: notebook for testing the hate speech detection model on multiple datasets such as the racism and sexism test sets.
