@@ -10,3 +10,6 @@ This repository is split into multiple folders containing the code used for impl
 
  - 📁 <b>comparison</b>: Contains:
     - `hatespeech-detection-tests.ipynb`: notebook for testing the hate speech detection model on multiple datasets such as the racism and sexism test sets.
+
+
+This work was accomplished by Jesse Dingley, Luca Melissari and Modar Sulaiman at University of Tartu.
